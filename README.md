@@ -1,6 +1,6 @@
 # Back_Order_Prediction
 
-An End to End project for Identifying the possibilities for hooking up customers after order is made and supply is shortage.
+A project for Identifying the possibilities for hooking up customers after order is made and supply is shortage.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
